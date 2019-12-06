@@ -1,13 +1,4 @@
-![logo](logo.svg#logo "IT not for profit")
-
-# IT not for profit
-
-This project was created to maintain a list of tools that might be useful for non-profit organizations. It's focused on open source software, services with free credits to use and proprietary software with discounts for organizations.
-
-Together with this list there will be a growing set of reviews, articles and guides about how to use all those things.
-
-## Table of content
-
+* [Quick Start](/)
 * [Hosting](hosting.md "Hosting providers and cloud services")
 * [Graphic Software](graphic-software.md "Graphic software and web apps")
 * [Graphic Resources](graphic-resources.md "Graphic resources for any project")
@@ -21,7 +12,3 @@ Together with this list there will be a growing set of reviews, articles and gui
 * [Visitor Session Recording](session-recording.md "Visitor session recording")
 * [Security](security.md "Find a breach within your services")
 * [Miscellaneous](miscellaneous.md "Various web things")
-
-If your organization have a programmer/admin in house, share with him/her following link, it's a curated list of resources for programmers and admins:  [Free for dev](https://github.com/ripienaar/free-for-dev).
-
-Have an idea to extend the list? PRs are wery welcome.
