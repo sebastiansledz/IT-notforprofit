@@ -1,4 +1,4 @@
-<p><img src="/logo.svg" class="it-logo" alt="logo" title="IT not for profit"></p>
+<p><img src="/logo.svg" class="it-logo" width="100px" alt="logo" title="IT not for profit"></p>
 
 # IT not for profit
 
