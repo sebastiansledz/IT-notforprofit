@@ -1,7 +1,7 @@
 * [Quick Start](/)
 * [Hosting](hosting.md "Hosting providers and cloud services")
 * [Graphic Software](graphic-software.md "Graphic software and web apps")
-* [Graphic Resources](graphic-resources.md "Graphic resources for any project")
+* [Media resources](media-resources.md "Various resources for any project")
 * [Project Management](project-management.md "Manage your organization workflow")
 * [Publishing](publishing.md "Where to publish the content")
 * [Website Builders](website-builders.md "Build static pages easily")
