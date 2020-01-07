@@ -1,4 +1,4 @@
-![logo](logo.svg#logo "IT not for profit")
+<p><img src="/logo.svg" class="it-logo" alt="logo" title="IT not for profit"></p>
 
 # IT not for profit
 
