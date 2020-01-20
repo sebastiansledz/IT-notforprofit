@@ -26,4 +26,4 @@ Together with this list there will be a growing set of reviews, articles and gui
 
 Have an idea to extend the list? Pull requests are wery welcome.
 
-**Peace :)**
+**Let the code be with you :)**
