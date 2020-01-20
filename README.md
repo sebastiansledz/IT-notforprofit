@@ -2,7 +2,7 @@
 
 # IT not for profit
 
-This project was created to maintain a list of tools that might be useful for non-profit organizations during their common tasks. We belive the list will help also others like small businesses, persons who are seeking for affordable solutions for their growing ideas. It's focused on open source software, services with free credits to use and proprietary software with discounts for organizations.
+This project was created to maintain a list of web/digital tools and resources that might be useful for non-profit organizations during their common tasks. We belive the list will help also others who are seeking for affordable solutions to grow their ideas. It's focused on open source software, services with free credits to use and proprietary software with discounts for organizations.
 
 Together with this list there will be a growing set of reviews, articles and guides about how to use all those things without going crazy.
 
