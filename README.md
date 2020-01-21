@@ -1,4 +1,4 @@
-<p><img src="/blob/master/logo.svg" class="it-logo" width="100px" alt="logo" title="IT not for profit"></p>
+<p><img src="https://sebastiansledz.github.io/IT-notforprofit/blob/master/logo.svg" class="it-logo" width="100px" alt="logo" title="IT not for profit"></p>
 
 # IT not for profit
 
