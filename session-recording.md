@@ -1,5 +1,3 @@
-# Here we put a list of hosting providers
+# Session recording
 
-## Website hosting
-
-## Cloud computing
+## WIP

@@ -1,5 +1,3 @@
-# Here we put a list of hosting providers
+# Marketing and customer relation
 
-## Website hosting
-
-## Cloud computing
+## WIP

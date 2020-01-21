@@ -1,4 +1,4 @@
-# Here we put a list of hosting providers
+# Blogging, publishing content
 
 ## Headless CMS
 

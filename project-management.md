@@ -1,5 +1,5 @@
-# Here we put a list of hosting providers
+# Project management
 
-## Website hosting
+## Desktop software
 
-## Cloud computing
+## Web applications

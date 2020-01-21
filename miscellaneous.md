@@ -1,5 +1,3 @@
-# Here we put a list of hosting providers
+# Other useful stuff
 
-## Website hosting
-
-## Cloud computing
+## WIP

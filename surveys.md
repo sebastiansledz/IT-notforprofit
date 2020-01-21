@@ -1,5 +1,3 @@
-# Here we put a list of hosting providers
+# Surveys and online forms
 
-## Website hosting
-
-## Cloud computing
+## WIP
