@@ -22,7 +22,7 @@ Together with this list there will be a growing set of reviews, articles and gui
 * [Security](security.md "Find a breach within your services")
 * [Miscellaneous](miscellaneous.md "Various web things")
 
-> If you have a programmer/admin in house, share with him/her following link, it's a curated list of resources for programmers and admins:  [Free for dev](https://github.com/ripienaar/free-for-dev).
+> If you are a programmer/admin or your organization has someome proficient in IT, share with him/her following link, it's a curated list of resources for programmers and admins:  [Free for dev](https://github.com/ripienaar/free-for-dev) and huge inspiration for this list.
 
 Have an idea to extend the list? Pull requests are wery welcome.
 
